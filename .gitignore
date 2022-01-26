@@ -1,5 +1,8 @@
-#Remove node modules
+# Remove node modules
 node_modules/
 
+# NextJS static files
+frontend/.next/
 
-
+# Keystone admine files
+backend/.keystone/
